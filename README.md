@@ -11,4 +11,4 @@ Site da Maria Flor — moda feminina no Riacho Fundo I, Brasília-DF.
 Settings → Pages → Branch `main`, pasta `/ (root)` → Save.
 O site fica em `https://brunolimadf.github.io/MF-FLOR-/`.
 
-O site é um único arquivo (`index.html`), com as fotos já incluídas.
+Fotos das peças e logo na pasta `img/`.
